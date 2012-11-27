@@ -1,5 +1,5 @@
 %\documentclass[conference]{IEEEtran}
-\documentclass[journal,onecolumn,12pt]{IEEEtran}
+\documentclass[draftclsnofoot,journal,onecolumn,11pt]{IEEEtran}
 
 \usepackage{graphicx}
 \usepackage{bm}% bold math
@@ -170,7 +170,7 @@ In summary, the key contribution of this work is to develop an online PDR-RSS mo
 
 \subsection{Packet Delivery Measurement} \label{sect:methodology}
 
-In the traditional rate control algorithms of Atheros's Linux wireless drivers, both \texttt{Madwifi} for 802.11a/b/g and \texttt{ath9k} \cite{ath9k} for 802.11n, EWMA is used to process PDR of each configuration, as shown in Fig.~\ref{weighted}. EWMA has some deficiencies when applied in mobile 802.11n. First, the setting of weighting coefficient $\alpha$ is difficult to respond promptly to link quality changes \cite{EWMAChart}, and it is set fixed to 0.125 or 0.25 in practical implementation \cite{ath9k} \cite{minstrel}. The update cycle is also fixed to 50ms or 100ms, which can not achieve effective control on accuracy and overhead. This will lead to PDR overestimation at high data rates as shown in Fig.2a.
+In the traditional rate control algorithms of Atheros's Linux wireless drivers, both \texttt{Madwifi} for 802.11a/b/g and \texttt{ath9k} \cite{ath9k} for 802.11n, EWMA is used to process PDR of each configuration, as shown in Fig.~\ref{weighted}. EWMA has some deficiencies when applied in mobile 802.11n. First, the weighting coefficient $\alpha$ is difficult to respond promptly to link quality changes \cite{EWMAChart}, and it is set fixed to 0.125 or 0.25 in practical implementation \cite{ath9k} \cite{minstrel}. The update cycle is also fixed to 50ms or 100ms, which can not achieve effective control on accuracy and overhead. This will lead to PDR overestimation at high data rates as shown in Fig.~\ref{pdr_over}.
 
 \begin{figure}[!t]
 \centerline{
@@ -194,7 +194,7 @@ To evaluate the performance of different measurement methodologies, the received
  p_i=\textbf{P(}SINR_i(t)>\delta\textbf{)}=\textbf{P(}\frac{R_i(t)}{I_i(t)+n}>\delta\textbf{)}=\hat{p}(R_i(t))
 \label{p_i}
 \end{equation}
-where $SINR_i(t)$ is the packet level SINR of the $i$-th packet transmitted at the time of $t$, $\delta$ is the SINR threshold, $R_i(t)$ is the RSS at time of $t$, $I_i(t)$ is the interference which is composed of all undesirable signals $R_j(t)$ that arrive at the receiver, and $n$ is the thermal noise floor which is usually assumed constant. $\hat{p}(R_i(t))$ is the packet delivery function based on realistic measurement, which is in relationship with the measured RSS. 
+where $SINR_i(t)$ is the packet level SINR of the $i$-th packet transmitted at the time of $t$, $\delta$ is the SINR threshold, $R_i(t)$ is the RSS at time of $t$, $I_i(t)$ is the interference which is composed of all undesirable signals $R_j(t)$ that arrive at the receiver, and $n$ is the thermal noise floor which is usually assumed constant. $\hat{p}(R_i(t))$ is the packet delivery function based on realistic measurement, which is in relationship with the measured RSS.
 
 For the statistical PDR-RSS model based on realistic measurement in mobile wireless networks, there is a trade-off between measurement accuracy and overhead. The measurement period should be set short enough and responding rapidly to changing network status, or be long cycle to reduce overhead when link quality is steady and reliable. At the same time, both RSS and PDR have time varying and location difference features in mobile 802.11n. And the diversification in data rates and packet size will significantly complicate the programming process. We propose DSWA approach attempting to resolve this dilemma. The measured PDR can be calculated by
 \begin{equation}
