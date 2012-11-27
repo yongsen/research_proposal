@@ -16,6 +16,12 @@ Boppana, R. and Su, X. (2011).
   {Ad Hoc} networks.
 \newblock {\em IEEE Transactions on Mobile Computing}, 10(8):1162 --1174.
 
+\bibitem[Chen et~al., 2002]{Chen:2002:SEC:582455.582461}
+Chen, B., Jamieson, K., Balakrishnan, H., and Morris, R. (2002).
+\newblock Span: an energy-efficient coordination algorithm for topology
+  maintenance in ad hoc wireless networks.
+\newblock {\em Wirel. Netw.}, 8(5):481--494.
+
 \bibitem[Chen et~al., 2012]{chen2011ram}
 Chen, X., Gangwal, P., and Qiao, D. (2012).
 \newblock {RAM}: Rate adaptation in mobile environments.
@@ -30,8 +36,7 @@ Crepaldi, R., Lee, J., Etkin, R., Lee, S., and Kravets, R. (2012).
 \bibitem[Eraslan and Daneshrad, 2012]{6214414}
 Eraslan, E. and Daneshrad, B. (2012).
 \newblock Practical energy efficient link adaptation for mimo-ofdm systems.
-\newblock In {\em Wireless Communications and Networking Conference (WCNC),
-  2012 IEEE}, pages 480 --485.
+\newblock In {\em IEEE WCNC 2012}, pages 480 --485.
 
 \bibitem[Fietkau, 2005]{minstrel}
 Fietkau, F. (2005).
@@ -50,6 +55,24 @@ Halperin, D., Hu, W., Sheth, A., and Wetherall, D. (2010).
   measurements.
 \newblock {\em ACM SIGCOMM '10}.
 
+\bibitem[Han et~al., 2012]{Han:2012:DPW:2307636.2307675}
+Han, H., Liu, Y., Shen, G., Zhang, Y., and Li, Q. (2012).
+\newblock Dozyap: power-efficient wi-fi tethering.
+\newblock In {\em Proceedings of the 10th international conference on Mobile
+  systems, applications, and services}, MobiSys '12, pages 421--434, New York,
+  NY, USA. ACM.
+
+\bibitem[Heinzelman et~al., 2000]{926982}
+Heinzelman, W., Chandrakasan, A., and Balakrishnan, H. (2000).
+\newblock Energy-efficient communication protocol for wireless microsensor
+  networks.
+\newblock In {\em HICSS 2000}, page 10 pp. vol.2.
+
+\bibitem[Jang et~al., 2011]{Jang:2011:SEM:2079296.2079308}
+Jang, K.-Y., Hao, S., Sheth, A., and Govindan, R. (2011).
+\newblock Snooze: energy management in 802.11n wlans.
+\newblock In {\em CoNEXT '11}, pages 12:1--12:12, New York, NY, USA. ACM.
+
 \bibitem[Judd et~al., 2008]{judd2008efficient}
 Judd, G., Wang, X., and Steenkiste, P. (2008).
 \newblock Efficient channel-aware rate adaptation in dynamic environments.
@@ -65,8 +88,7 @@ Kashyap, A., Ganguly, S., and Das, S.~R. (2007).
 Kim, H.~S. and Daneshrad, B. (2010).
 \newblock Energy-constrained link adaptation for mimo ofdm wireless
   communication systems.
-\newblock {\em Wireless Communications, IEEE Transactions on}, 9(9):2820
-  --2832.
+\newblock {\em IEEE Transactions on Wireless Communications}, 9(9):2820 --2832.
 
 \bibitem[Kim et~al., 2010]{kim2010sybot}
 Kim, K., Min, A.~W., and Shin, K.~G. (2010).
@@ -133,15 +155,43 @@ Reis, C., Mahajan, R., Rodrig, M., Wetherall, D., and Zahorjan, J. (2006).
   wireless networks.
 \newblock {\em ACM SIGCOMM '06}.
 
+\bibitem[Schulman et~al., 2010]{Schulman:2010:BPA:1859995.1860006}
+Schulman, A., Navda, V., Ramjee, R., Spring, N., Deshpande, P., Grunewald, C.,
+  Jain, K., and Padmanabhan, V.~N. (2010).
+\newblock Bartendr: a practical approach to energy-aware cellular data
+  scheduling.
+\newblock In {\em Proceedings of the sixteenth annual international conference
+  on Mobile computing and networking}, MobiCom '10, pages 85--96, New York, NY,
+  USA. ACM.
+
 \bibitem[Wong et~al., 2008]{wong2008wireless}
 Wong, M., Gilbert, J., and Barratt, C. (2008).
 \newblock Wireless {LAN} using {RSSI} and {BER} parameters for transmission
   rate adaptation.
 \newblock US Patent 7,369,510.
 
+\bibitem[Ye et~al., 2002]{1019408}
+Ye, W., Heidemann, J., and Estrin, D. (2002).
+\newblock An energy-efficient mac protocol for wireless sensor networks.
+\newblock In {\em IEEE INFOCOM 2002}, volume~3, pages 1567 -- 1576 vol.3.
+
 \bibitem[Zhang et~al., 2008]{zhang2008practical}
 Zhang, J., Tan, K., Zhao, J., Wu, H., and Zhang, Y. (2008).
 \newblock A practical {SNR}-guided rate adaptation.
 \newblock {\em IEEE INFOCOM 2008}.
+
+\bibitem[Zhang and Shin, 2011]{Zhang:2011:EEI:2030613.2030637}
+Zhang, X. and Shin, K.~G. (2011).
+\newblock E-mili: energy-minimizing idle listening in wireless networks.
+\newblock In {\em Proceedings of the 17th annual international conference on
+  Mobile computing and networking}, MobiCom '11, pages 205--216, New York, NY,
+  USA. ACM.
+
+\bibitem[Zhuang et~al., 2010]{Zhuang:2010:IEE:1814433.1814464}
+Zhuang, Z., Kim, K.-H., and Singh, J.~P. (2010).
+\newblock Improving energy efficiency of location sensing on smartphones.
+\newblock In {\em Proceedings of the 8th international conference on Mobile
+  systems, applications, and services}, MobiSys '10, pages 315--330, New York,
+  NY, USA. ACM.
 
 \end{thebibliography}
