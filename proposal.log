@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.29)  27 NOV 2012 21:13
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.10.29)  27 NOV 2012 22:16
 entering extended mode
 **proposal.tex
 (E:\Github\research_proposal\proposal.tex
@@ -481,10 +481,10 @@ Package pdftex.def Info: pdrvary.pdf used on input line 109.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.116 
-       <E:/Github/research_proposal/time.pdf> <E:/Github/research_proposal/cdfr
-ss.pdf> <E:/Github/research_proposal/pdrvary.pdf>]
-<pdr.pdf, id=72, 289.08pt x 216.81pt>
+l.114 \subsection
+                 {Transition Windows} <E:/Github/research_proposal/time.pdf> <E
+:/Github/research_proposal/cdfrss.pdf> <E:/Github/research_proposal/pdrvary.pdf
+>] <pdr.pdf, id=72, 289.08pt x 216.81pt>
 File: pdr.pdf Graphic file (type pdf)
  <use pdr.pdf>
 Package pdftex.def Info: pdr.pdf used on input line 125.
@@ -587,13 +587,13 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <11> not available
                                                   \fi \fi 
 l.250 
        <E:/Github/research_proposal/m_weighted.pdf> <E:/Github/research_proposa
-l/m_sliding.pdf>] <cdf.pdf, id=292, 216.81pt x 310.15875pt>
+l/m_sliding.pdf>] <cdf.pdf, id=289, 216.81pt x 310.15875pt>
 File: cdf.pdf Graphic file (type pdf)
  <use cdf.pdf>
 Package pdftex.def Info: cdf.pdf used on input line 260.
 (pdftex.def)             Requested size: 140.92793pt x 201.61499pt.
 
-<DSWA.pdf, id=293, 361.35pt x 216.81pt>
+<DSWA.pdf, id=290, 361.35pt x 216.81pt>
 File: DSWA.pdf Graphic file (type pdf)
  <use DSWA.pdf>
 Package pdftex.def Info: DSWA.pdf used on input line 260.
@@ -603,9 +603,9 @@ Package pdftex.def Info: DSWA.pdf used on input line 260.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.271 
-       <E:/Github/research_proposal/cdf.pdf> <E:/Github/research_proposal/DSWA.
-pdf>]
+l.269 \subsubsection
+                    {Overhead} <E:/Github/research_proposal/cdf.pdf> <E:/Github
+/research_proposal/DSWA.pdf>]
 
 LaTeX Warning: Reference `route2' on page 10 undefined on input line 277.
 
@@ -620,21 +620,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 6.
  [10] [11])
-
-** Conference Paper **
-Before submitting the final camera ready copy, remember to:
-
- 1. Manually equalize the lengths of two columns on the last page
- of your paper;
-
- 2. Ensure that any PostScript and/or PDF output post-processing
- uses only Type 1 fonts and that every step in the generation
- process uses the appropriate paper size.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
-[12]
+ [12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
- (E:\Github\research_proposal\proposal.aux)
+
+(E:\Github\research_proposal\proposal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 290.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 290.
 
@@ -643,10 +633,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8228 strings out of 494045
- 124590 string characters out of 3148016
- 217302 words of memory out of 3000000
- 11304 multiletter control sequences out of 15000+200000
+ 8225 strings out of 494045
+ 124517 string characters out of 3148016
+ 217762 words of memory out of 3000000
+ 11301 multiletter control sequences out of 15000+200000
  42376 words of font info for 90 fonts, out of 3000000 for 9000
  718 hyphenation exceptions out of 8191
  36i,10n,47p,1468b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -659,7 +649,7 @@ lic/amsfonts/cm/cmsy8.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type1/urw/courier
 /ucrr8a.pfb><C:/Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/
 Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/CT
 EX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (12 pages, 933918 bytes).
+Output written on proposal.pdf (12 pages, 934330 bytes).
 PDF statistics:
  468 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)

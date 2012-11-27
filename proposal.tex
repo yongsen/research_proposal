@@ -1,5 +1,5 @@
 %\documentclass[conference]{IEEEtran}
-\documentclass[draftclsnofoot,conference,onecolumn,11pt]{IEEEtran}
+\documentclass[draftclsnofoot,journal,onecolumn,11pt]{IEEEtran}
 
 \usepackage{graphicx}
 \usepackage{bm}% bold math
@@ -31,7 +31,7 @@
 \IEEEauthorblockA{Shanghai Jiao Tong University \\
 E-mail: mayongsen@gmail.com}
 }
-
+\markboth{R\MakeLowercase{esearch} P\MakeLowercase{roposal for} P\MakeLowercase{h}D A\MakeLowercase{pplication of} CS, HKU}{Yongsen MA}
 % make the title area
 \maketitle
 %
@@ -177,10 +177,10 @@ Fig.~\ref{framework} shows the software architecture, which is composed of netwo
   \item \textbf{Device layer:} makes PDR computation and RSS averaging driven by TX/RX events respectively, and selects rate indexes according to network layer results as PDR or RSS lower than certain threshold.
 \end{itemize}
 
-The construction of the online framework is consist of the following three steps. 
+The construction of the online framework is consist of the following three steps.
 \begin{enumerate}
-  \item First, the database is initialized through empirical experiments. 
-  \item Second, it will be updated to the PDR-RSS model under different settings in realtime operating. 
+  \item First, the database is initialized through empirical experiments.
+  \item Second, it will be updated to the PDR-RSS model under different settings in realtime operating.
   \item Finally, the HT/GI/MCS selection sequence can be generated according to the online PDR-RSS model and current status, which can provide optional HT/GI/MCS sorted in order.
 \end{enumerate}
 
@@ -199,7 +199,7 @@ The construction of the online framework is consist of the following three steps
 \label{implamentation}
 \end{figure}
 
-Compared to the general static PDR-RSS modeling framework in Fig.~\ref{offlinemodel}, the on-line framework has the following distinctive features. 
+Compared to the general static PDR-RSS modeling framework in Fig.~\ref{offlinemodel}, the on-line framework has the following distinctive features.
 \begin{enumerate}
   \item First, it has two inputs into both PDR-RSS model and database.
   \item Second, both PDR-RSS model and database are updated online.
@@ -211,7 +211,7 @@ Through the distinctive features, the online PDR-RSS modeling framework can prov
 \subsection{Packet Delivery Measurement} \label{sect:methodology}
 For the statistical PDR-RSS model based on realistic measurement in mobile wireless networks, there is a trade-off between measurement accuracy and overhead. The measurement period should be set short enough and responding rapidly to changing network status, or be long cycle to reduce overhead when link quality is steady and reliable. At the same time, both RSS and PDR have time varying and location difference features in mobile 802.11n. And the diversification in data rates and packet size will significantly complicate the programming process.
 
-In the traditional rate control algorithms of Atheros's Linux wireless drivers, both \texttt{Madwifi} for 802.11a/b/g and \texttt{ath9k} \cite{ath9k} for 802.11n, EWMA is used to process PDR of each configuration, as shown in Fig.~\ref{weighted}. EWMA has some deficiencies when applied in mobile 802.11n. 
+In the traditional rate control algorithms of Atheros's Linux wireless drivers, both \texttt{Madwifi} for 802.11a/b/g and \texttt{ath9k} \cite{ath9k} for 802.11n, EWMA is used to process PDR of each configuration, as shown in Fig.~\ref{weighted}. EWMA has some deficiencies when applied in mobile 802.11n.
 
 \begin{itemize}
   \item The weighting coefficient $\alpha$ is set fixed to 0.125 or 0.25 in practical implementation \cite{ath9k} \cite{minstrel}, and it is hard to respond promptly to link quality changes \cite{EWMAChart}.
@@ -243,7 +243,7 @@ The DSWA approach can be employed to resolve this dilemma. Unlike EWMA, the wind
 \subsection{Packet Delivery Modeling} \label{sect:modeling}
 
 The on-line PDR-RSS modeling is to update the PDR-RSS model and database, and generate the HT/GI/MCS selection sequence according to current network conditions. Obviously, the reliability can be identified by the distance between transition windows' upper bound and current RSS. Then the database is sorted in order by this distance, and the HT/GI/MCS selection sequence is generated accordingly.
- 
+
 \subsection{Rate Adaption} \label{sect:adaption}
 
 DSWA can be adopted to get accurate PDR measurement with low overhead, then the suitable configuration can be chosen according to HT/GI/MCS index. The PDR threshold in GradedM.c is set to \{$P_{thrl},P_{thrh}$\}=\{$10\%,90\%$\}. When the selected MCS is far away the right bound of its transition window, GradedR will choose a new configuration to acquire a higher data rate. On the contrast, it will reduce the data rate when current PDR falls into the transition window. Given the characterization results of PDR-RSS model, SGI is only selected as the final rate adaptation step when the link quality is still poor running at the highest rates of LGI.
