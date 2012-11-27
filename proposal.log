@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.19)  26 NOV 2012 18:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.19)  27 NOV 2012 10:26
 entering extended mode
 **proposal.tex
 (D:\Cloud\Github\research_proposal\proposal.tex
@@ -249,6 +249,65 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 File: bkm-pdftex.def 2011/04/21 v1.21 bookmark driver for pdfTeX (HO)
 \BKM@id=\count102
 ))
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen124
+))
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 54.
+\pmbraise@=\dimen125
+)
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip11
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks17
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks18
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks19
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty"
 Package: algpseudocode 
 
@@ -259,16 +318,16 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count103
-\c@ALG@rem=\count104
-\c@ALG@nested=\count105
-\ALG@tlm=\skip45
-\ALG@thistlm=\skip46
-\c@ALG@Lnr=\count106
-\c@ALG@blocknr=\count107
-\c@ALG@storecount=\count108
-\c@ALG@tmpcounter=\count109
-\ALG@tmplength=\skip47
+\c@ALG@line=\count115
+\c@ALG@rem=\count116
+\c@ALG@nested=\count117
+\ALG@tlm=\skip48
+\ALG@thistlm=\skip49
+\c@ALG@Lnr=\count118
+\c@ALG@blocknr=\count119
+\c@ALG@storecount=\count120
+\c@ALG@tmpcounter=\count121
+\ALG@tmplength=\skip50
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
 ) ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty"
@@ -277,56 +336,71 @@ nment
 
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count110
-\float@exts=\toks16
-\float@box=\box27
-\@float@everytoks=\toks17
-\@floatcapt=\box28
+\c@float@type=\count122
+\float@exts=\toks21
+\float@box=\box29
+\@float@everytoks=\toks22
+\@floatcapt=\box30
 )
-\@float@every@algorithm=\toks18
-\c@algorithm=\count111
+\@float@every@algorithm=\toks23
+\c@algorithm=\count123
+)
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen133
+\extrarowheight=\dimen134
+\NC@list=\toks24
+\extratabsurround=\skip51
+\backup@length=\skip52
 )
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\caption\caption3.sty"
 Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
-\captionmargin=\dimen124
-\captionmargin@=\dimen125
-\captionwidth=\dimen126
-\caption@indent=\dimen127
-\caption@parindent=\dimen128
-\caption@hangindent=\dimen129
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@indent=\dimen138
+\caption@parindent=\dimen139
+\caption@hangindent=\dimen140
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 )
-\c@KVtest=\count112
-\sf@farskip=\skip48
-\sf@captopadj=\dimen130
-\sf@capskip=\skip49
-\sf@nearskip=\skip50
-\c@subfigure=\count113
-\c@subfigure@save=\count114
-\c@lofdepth=\count115
-\c@subtable=\count116
-\c@subtable@save=\count117
-\c@lotdepth=\count118
-\sf@top=\skip51
-\sf@bottom=\skip52
+\c@KVtest=\count124
+\sf@farskip=\skip53
+\sf@captopadj=\dimen141
+\sf@capskip=\skip54
+\sf@nearskip=\skip55
+\c@subfigure=\count125
+\c@subfigure@save=\count126
+\c@lofdepth=\count127
+\c@subtable=\count128
+\c@subtable@save=\count129
+\c@lotdepth=\count130
+\sf@top=\skip56
+\sf@bottom=\skip57
 )
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\sttools\stfloats.sty"
 Package: stfloats 1999/10/22
-\@dblbotnum=\count119
-\c@dblbotnumber=\count120
+\@dblbotnum=\count131
+\c@dblbotnumber=\count132
 )
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\multirow\multirow.sty"
-\bigstrutjot=\dimen131
+\bigstrutjot=\dimen142
 )
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\threeparttable\threeparttable.st
 y"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box29
-) (D:\Cloud\Github\research_proposal\proposal.aux)
+\@tempboxb=\box31
+) (D:\Cloud\Github\research_proposal\proposal.aux
+
+LaTeX Warning: Label `cdf_rss' multiply defined.
+
+
+LaTeX Warning: Label `sub@cdf_rss' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
@@ -341,22 +415,21 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
 LaTeX Font Info:    ... okay on input line 27.
-
-("C:\Program Files (x86)\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files (x86)\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count121
-\scratchdimen=\dimen132
-\scratchbox=\box30
-\nofMPsegments=\count122
-\nofMParguments=\count123
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count124
-\MPscratchDim=\dimen133
-\MPnumerator=\count125
-\makeMPintoPDFobject=\count126
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count133
+\scratchdimen=\dimen143
+\scratchbox=\box32
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen144
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks26
 )
-\AtBeginShipoutBox=\box31
+\AtBeginShipoutBox=\box33
  ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -373,7 +446,7 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 ("C:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count127
+\c@section@level=\count139
 )
 LaTeX Info: Redefining \ref on input line 27.
 LaTeX Info: Redefining \pageref on input line 27.
@@ -381,107 +454,264 @@ LaTeX Info: Redefining \nameref on input line 27.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-
-pdfTeX warning: pdflatex.exe (file D:/Cloud/Github/research_proposal/device_tre
-nd.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allo
-wed
-<device_trend.pdf, id=3, 794.97pt x 614.295pt>
-File: device_trend.pdf Graphic file (type pdf)
- <use device_trend.pdf>
-Package pdftex.def Info: device_trend.pdf used on input line 53.
-(pdftex.def)             Requested size: 412.80157pt x 318.99467pt.
-
-
-pdfTeX warning: pdflatex.exe (file D:/Cloud/Github/research_proposal/mobile_des
-ktop.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> al
-lowed
-<mobile_desktop.pdf, id=4, 794.97pt x 614.295pt>
-File: mobile_desktop.pdf Graphic file (type pdf)
- <use mobile_desktop.pdf>
-Package pdftex.def Info: mobile_desktop.pdf used on input line 60.
-(pdftex.def)             Requested size: 412.80157pt x 318.99467pt.
-
-
-pdfTeX warning: pdflatex.exe (file D:/Cloud/Github/research_proposal/mobile_tre
-nd.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allo
-wed
-<mobile_trend.pdf, id=5, 794.97pt x 614.295pt>
-File: mobile_trend.pdf Graphic file (type pdf)
- <use mobile_trend.pdf>
-Package pdftex.def Info: mobile_trend.pdf used on input line 67.
-(pdftex.def)             Requested size: 412.80157pt x 318.99467pt.
-
-
-pdfTeX warning: pdflatex.exe (file D:/Cloud/Github/research_proposal/mobile_use
-rs.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allo
-wed
-<mobile_users.pdf, id=6, 794.97pt x 614.295pt>
-File: mobile_users.pdf Graphic file (type pdf)
- <use mobile_users.pdf>
-Package pdftex.def Info: mobile_users.pdf used on input line 74.
-(pdftex.def)             Requested size: 412.80157pt x 318.99467pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 86.
+(Font)              <12> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 86.
+(Font)              <8> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 86.
- [1{C:/Program Files (x86)/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{
-UGBK.sfd}}] [2pdfTeX warning (ext4): destination with the same identifier (name
-{figure.1}) has been already used, duplicate ignored
+(Font)              <6> on input line 51.
+[1{C:/Program Files (x86)/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{U
+GBK.sfd}}] <time.pdf, id=44, 433.62pt x 289.08pt>
+File: time.pdf Graphic file (type pdf)
+ <use time.pdf>
+Package pdftex.def Info: time.pdf used on input line 102.
+(pdftex.def)             Requested size: 206.39685pt x 137.59673pt.
+
+<cdfrss.pdf, id=45, 216.81pt x 289.08pt>
+File: cdfrss.pdf Graphic file (type pdf)
+ <use cdfrss.pdf>
+Package pdftex.def Info: cdfrss.pdf used on input line 102.
+(pdftex.def)             Requested size: 103.19843pt x 137.59673pt.
+
+<pdr.pdf, id=46, 289.08pt x 216.81pt>
+File: pdr.pdf Graphic file (type pdf)
+ <use pdr.pdf>
+Package pdftex.def Info: pdr.pdf used on input line 102.
+(pdftex.def)             Requested size: 185.76031pt x 139.32031pt.
+
+<pdrvary.pdf, id=56, 361.35pt x 289.08pt>
+File: pdrvary.pdf Graphic file (type pdf)
+ <use pdrvary.pdf>
+Package pdftex.def Info: pdrvary.pdf used on input line 116.
+(pdftex.def)             Requested size: 232.19843pt x 185.76042pt.
+
+<MCS.pdf, id=57, 361.35pt x 289.08pt>
+File: MCS.pdf Graphic file (type pdf)
+ <use MCS.pdf>
+Package pdftex.def Info: MCS.pdf used on input line 116.
+(pdftex.def)             Requested size: 232.19843pt x 185.76042pt.
+
+
+pdfTeX warning: pdflatex.exe (file D:/Cloud/Github/research_proposal/modeling1.
+pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+<modeling1.pdf, id=58, 1040.2233pt x 478.39828pt>
+File: modeling1.pdf Graphic file (type pdf)
+ <use modeling1.pdf>
+Package pdftex.def Info: modeling1.pdf used on input line 122.
+(pdftex.def)             Requested size: 232.19843pt x 106.78088pt.
+
+Overfull \hbox (2.04247pt too wide) in paragraph at lines 107--126
+[]\OT1/ptm/b/n/12 PDR Mea-sure Ac-cu-ra-cy. \OT1/ptm/m/n/12 Stat-ic EW-MA is wi
+de-ly used in P-DR mea-sure [[]] [[]]
+ []
+
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 Y
-       our methodology must be  appropriate  to the questions you are asking...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
-s been already used, duplicate ignored
+l.128 
+       <D:/Cloud/Github/research_proposal/time.pdf> <D:/Cloud/Github/research_p
+roposal/cdfrss.pdf> <D:/Cloud/Github/research_proposal/pdr.pdf>]
+<modeling.pdf, id=103, 1441.7233pt x 577.51556pt>
+File: modeling.pdf Graphic file (type pdf)
+ <use modeling.pdf>
+Package pdftex.def Info: modeling.pdf used on input line 138.
+(pdftex.def)             Requested size: 309.60315pt x 124.01361pt.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 Y
-       our methodology must be  appropriate  to the questions you are asking...
- <D:/Cloud/Github/research_proposal/device_trend.pdf> <D:/Cloud/Github/research
-_proposal/mobile_desktop.pdf>] [3pdfTeX warning (ext4): destination with the sa
-me identifier (name{figure.3}) has been already used, duplicate ignored
+l.147 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 Y
-       our methodology must be  appropriate  to the questions you are asking...
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
-s been already used, duplicate ignored
+l.147 
+       <D:/Cloud/Github/research_proposal/pdrvary.pdf> <D:/Cloud/Github/researc
+h_proposal/MCS.pdf> <D:/Cloud/Github/research_proposal/modeling1.pdf>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 149.
+
+
+("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [4pdfTeX warning (ext4): destination with the same identifier (name{figure.4}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.123 Y
-       our methodology must be  appropriate  to the questions you are asking...
- <D:/Cloud/Github/research_proposal/mobile_trend.pdf> <D:/Cloud/Github/research
-_proposal/mobile_users.pdf>] (D:\Cloud\Github\research_proposal\proposal.bbl
-[4] [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+l.156 T
+       o demonstrate the advantage of online PDR-RSS modeling framework furt...
+ <D:/Cloud/Github/research_proposal/modeling.pdf>]
+Overfull \hbox (8.33656pt too wide) in paragraph at lines 173--174
+\OT1/ptm/m/n/12 of weight-ing co-ef-fi-cien-t $\OML/cmm/m/it/12 $ \OT1/ptm/m/n
+/12 is d-if-fi-cult to re-spond prompt-ly to link qual-i-ty changes [[]],
+ []
+
+<m_weighted.pdf, id=195, 361.35pt x 86.3225pt>
+File: m_weighted.pdf Graphic file (type pdf)
+ <use m_weighted.pdf>
+Package pdftex.def Info: m_weighted.pdf used on input line 187.
+(pdftex.def)             Requested size: 258.0pt x 61.63316pt.
+
+<m_sliding.pdf, id=196, 361.35pt x 86.3225pt>
+File: m_sliding.pdf Graphic file (type pdf)
+ <use m_sliding.pdf>
+Package pdftex.def Info: m_sliding.pdf used on input line 187.
+(pdftex.def)             Requested size: 258.0pt x 61.63316pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.198 
+       <D:/Cloud/Github/research_proposal/m_weighted.pdf> <D:/Cloud/Github/rese
+arch_proposal/m_sliding.pdf>]
+
+LaTeX Warning: Reference `experiment' on page 6 undefined on input line 233.
+
+[6] <cdf.pdf, id=251, 216.81pt x 310.15875pt>
+File: cdf.pdf Graphic file (type pdf)
+ <use cdf.pdf>
+Package pdftex.def Info: cdf.pdf used on input line 248.
+(pdftex.def)             Requested size: 154.80157pt x 221.46367pt.
+
+<DSWA.pdf, id=252, 361.35pt x 216.81pt>
+File: DSWA.pdf Graphic file (type pdf)
+ <use DSWA.pdf>
+Package pdftex.def Info: DSWA.pdf used on input line 248.
+(pdftex.def)             Requested size: 361.19843pt x 216.72014pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.258 \subsection
+                 {Packet Delivery Modeling} \label{sect:modeling} <D:/Cloud/Git
+hub/research_proposal/cdf.pdf> <D:/Cloud/Github/research_proposal/DSWA.pdf>]
+
+LaTeX Warning: Reference `motivation' on page 8 undefined on input line 259.
+
+<pdr_ch_sgi.pdf, id=281, 361.35pt x 216.81pt>
+File: pdr_ch_sgi.pdf Graphic file (type pdf)
+ <use pdr_ch_sgi.pdf>
+Package pdftex.def Info: pdr_ch_sgi.pdf used on input line 274.
+(pdftex.def)             Requested size: 232.19843pt x 139.32031pt.
+
+<pdr_ch_lgi.pdf, id=282, 361.35pt x 216.81pt>
+File: pdr_ch_lgi.pdf Graphic file (type pdf)
+ <use pdr_ch_lgi.pdf>
+Package pdftex.def Info: pdr_ch_lgi.pdf used on input line 274.
+(pdftex.def)             Requested size: 232.19843pt x 139.32031pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.284   \item \textbf
+                     {Data Rates:} We first illustrate the influence of diff...
+ <D:/Cloud/Github/research_proposal/pdr_ch_sgi.pdf> <D:/Cloud/Github/research_p
+roposal/pdr_ch_lgi.pdf>]
+Overfull \hbox (3.67725pt too wide) in paragraph at lines 284--285
+[]\OT1/ptm/b/n/12 Data Rates: \OT1/ptm/m/n/12 We first il-lus-trate the in-flu-
+ence of d-if-fer-en-t PHY da-ta rates on P-DR, and both HT20/HT40
+ []
+
+<pdr_sgi.pdf, id=315, 361.35pt x 216.81pt>
+File: pdr_sgi.pdf Graphic file (type pdf)
+ <use pdr_sgi.pdf>
+Package pdftex.def Info: pdr_sgi.pdf used on input line 291.
+(pdftex.def)             Requested size: 258.0pt x 154.79962pt.
+
+
+LaTeX Warning: Reference `motivation' on page 9 undefined on input line 305.
+
+
+LaTeX Warning: Reference `motivation' on page 9 undefined on input line 305.
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.306 \subsection
+                 {Online PDR-RSS Modeling} <D:/Cloud/Github/research_proposal/p
+dr_sgi.pdf>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 312.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 317.
+
+ ("C:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 317.
+
+<framework.pdf, id=345, 361.35pt x 216.81pt>
+File: framework.pdf Graphic file (type pdf)
+ <use framework.pdf>
+Package pdftex.def Info: framework.pdf used on input line 336.
+(pdftex.def)             Requested size: 412.80157pt x 247.68204pt.
+
+
+LaTeX Warning: Reference `modeling' on page 10 undefined on input line 341.
+
+[10] (D:\Cloud\Github\research_proposal\proposal.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 ...Balasubramanian et~al., 2010]{Bala2010wifi}
+                                                   <D:/Cloud/Github/research_pr
+oposal/framework.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 377.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 377.
  (D:\Cloud\Github\research_proposal\proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 377.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 377.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 7443 strings out of 495354
- 117938 string characters out of 3182738
- 210328 words of memory out of 3000000
- 10449 multiletter control sequences out of 15000+200000
- 37494 words of font info for 77 fonts, out of 3000000 for 9000
+ 8239 strings out of 495354
+ 125104 string characters out of 3182738
+ 220270 words of memory out of 3000000
+ 11186 multiletter control sequences out of 15000+200000
+ 42372 words of font info for 90 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
- 36i,7n,38p,292b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,17n,47p,1560b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/Progr
-am Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program
- Files (x86)/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x8
-6)/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (6 pages, 458062 bytes).
+am Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progra
+m Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program
+ Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program F
+iles (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
+es (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
+ (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x
+86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/CT
+EX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/CTEX
+/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/CTEX/MiKTeX/
+fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/CTEX/MiKTeX/fonts/type
+1/urw/times/utmr8a.pfb><C:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/urw/time
+s/utmri8a.pfb>
+Output written on proposal.pdf (12 pages, 1374557 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

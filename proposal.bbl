@@ -1,399 +1,147 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{}
 
-\bibitem{Aryafar:2010:DEE:1859995.1860019}
-E.~Aryafar, N.~Anand, T.~Salonidis, and E.~W. Knightly.
-\newblock Design and experimental evaluation of multi-user beamforming in
-  wireless lans.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 197--208, New York,
-  NY, USA, 2010. ACM.
+\bibitem[Atheros, 2012]{ath9k}
+Atheros, Q. (2012).
+\newblock Atheros linux wireless drivers.
+\newblock \url{http://linuxwireless.org/en/users/Drivers/ath9k}.
 
-\bibitem{Aryafar:2012:MEM:2348543.2348576}
-E.~Aryafar, M.~A. Khojastepour, K.~Sundaresan, S.~Rangarajan, and M.~Chiang.
-\newblock Midu: enabling mimo full duplex.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 257--268, New York, NY,
-  USA, 2012. ACM.
+\bibitem[Balasubramanian et~al., 2010]{Bala2010wifi}
+Balasubramanian, A., Mahajan, R., and Venkataramani, A. (2010).
+\newblock Augmenting mobile {3G} using {WiFi}.
+\newblock {\em ACM MOBISYS '10}.
 
-\bibitem{Balan:2012:AHD:2348543.2348552}
-H.~V. Balan, R.~Rogalin, A.~Michaloliakos, K.~Psounis, and G.~Caire.
-\newblock Achieving high data rates in a distributed mimo system.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 41--52, New York, NY,
-  USA, 2012. ACM.
+\bibitem[Boppana and Su, 2011]{5620919}
+Boppana, R. and Su, X. (2011).
+\newblock On the effectiveness of monitoring for intrusion detection in mobile
+  {Ad Hoc} networks.
+\newblock {\em IEEE Transactions on Mobile Computing}, 10(8):1162 --1174.
 
-\bibitem{Balasubramanian:2010:AMU:1814433.1814456}
-A.~Balasubramanian, R.~Mahajan, and A.~Venkataramani.
-\newblock Augmenting mobile 3g using wifi.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 209--222, New York,
-  NY, USA, 2010. ACM.
+\bibitem[Chen et~al., 2012]{chen2011ram}
+Chen, X., Gangwal, P., and Qiao, D. (2012).
+\newblock {RAM}: Rate adaptation in mobile environments.
+\newblock {\em IEEE Transactions on Mobile Computing}, 11(3):464 --477.
 
-\bibitem{Bhartia:2011:HFD:2030613.2030642}
-A.~Bhartia, Y.-C. Chen, S.~Rallapalli, and L.~Qiu.
-\newblock Harnessing frequency diversity in wi-fi networks.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 253--264, New York, NY,
-  USA, 2011. ACM.
+\bibitem[Crepaldi et~al., 2012]{CSI-SF}
+Crepaldi, R., Lee, J., Etkin, R., Lee, S., and Kravets, R. (2012).
+\newblock {CSI-SF}: Estimating wireless channel state using {CSI} sampling \&
+  fusion.
+\newblock {\em IEEE INFOCOM 2012}.
 
-\bibitem{Chai:2012:BES:2348543.2348564}
-E.~Chai, J.~Lee, S.-J. Lee, R.~Etkin, and K.~G. Shin.
-\newblock Building efficient spectrum-agile devices for dummies.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 149--160, New York, NY,
-  USA, 2012. ACM.
+\bibitem[Eraslan and Daneshrad, 2012]{6214414}
+Eraslan, E. and Daneshrad, B. (2012).
+\newblock Practical energy efficient link adaptation for mimo-ofdm systems.
+\newblock In {\em Wireless Communications and Networking Conference (WCNC),
+  2012 IEEE}, pages 480 --485.
 
-\bibitem{Choi:2010:ASC:1859995.1859997}
-J.~I. Choi, M.~Jain, K.~Srinivasan, P.~Levis, and S.~Katti.
-\newblock Achieving single channel, full duplex wireless communication.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 1--12, New York, NY,
-  USA, 2010. ACM.
+\bibitem[Fietkau, 2005]{minstrel}
+Fietkau, F. (2005).
+\newblock Minstrel rate control algorithm for mac80211.
+\newblock
+  \url{http://madwifi-project.org/browser/madwifi/trunk/ath_rate/minstrel}.
 
-\bibitem{Dogar:2010:CEH:1814433.1814446}
-F.~R. Dogar, P.~Steenkiste, and K.~Papagiannaki.
-\newblock Catnap: exploiting high bandwidth wireless interfaces to save energy
-  for mobile devices.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 107--122, New York,
-  NY, USA, 2010. ACM.
+\bibitem[Floyd et~al., 2000]{floyd2000equation}
+Floyd, S., Handley, M., Padhye, J., and Widmer, J. (2000).
+\newblock Equation-based congestion control for unicast applications.
+\newblock {\em ACM SIGCOMM '00}.
 
-\bibitem{Dong:2011:SHS:1999995.2000027}
-M.~Dong and L.~Zhong.
-\newblock Self-constructive high-rate system energy modeling for
-  battery-powered mobile systems.
-\newblock In {\em Proceedings of the 9th international conference on Mobile
-  systems, applications, and services}, MobiSys '11, pages 335--348, New York,
-  NY, USA, 2011. ACM.
-
-\bibitem{Falaki:2010:DSU:1814433.1814453}
-H.~Falaki, R.~Mahajan, S.~Kandula, D.~Lymberopoulos, R.~Govindan, and
-  D.~Estrin.
-\newblock Diversity in smartphone usage.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 179--194, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Gao:2012:EG:2342356.2342398}
-P.~X. Gao, A.~R. Curtis, B.~Wong, and S.~Keshav.
-\newblock It's not easy being green.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 211--222, New York, NY, USA, 2012. ACM.
-
-\bibitem{Gollakota:2011:CRS:2018436.2018456}
-S.~Gollakota, F.~Adib, D.~Katabi, and S.~Seshan.
-\newblock Clearing the rf smog: making 802.11n robust to cross-technology
-  interference.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2011 conference}, SIGCOMM '11,
-  pages 170--181, New York, NY, USA, 2011. ACM.
-
-\bibitem{Goma:2011:IAC:2018436.2018475}
-E.~Goma, M.~Canini, A.~Lopez~Toledo, N.~Laoutaris, D.~Kosti\'{c}, P.~Rodriguez,
-  R.~Stanojevi\'{c}, and P.~Yag\"{u}e~Valentin.
-\newblock Insomnia in the access: or how to curb access network related energy
-  consumption.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2011 conference}, SIGCOMM '11,
-  pages 338--349, New York, NY, USA, 2011. ACM.
-
-\bibitem{Gudipati:2011:SAR:2018436.2018455}
-A.~Gudipati and S.~Katti.
-\newblock Strider: automatic rate adaptation and collision handling.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2011 conference}, SIGCOMM '11,
-  pages 158--169, New York, NY, USA, 2011. ACM.
-
-\bibitem{Halperin:2010:PPD:1851182.1851203}
-D.~Halperin, W.~Hu, A.~Sheth, and D.~Wetherall.
+\bibitem[Halperin et~al., 2010]{Halperin2010predictable}
+Halperin, D., Hu, W., Sheth, A., and Wetherall, D. (2010).
 \newblock Predictable 802.11 packet delivery from wireless channel
   measurements.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2010 conference}, SIGCOMM '10,
-  pages 159--170, New York, NY, USA, 2010. ACM.
+\newblock {\em ACM SIGCOMM '10}.
 
-\bibitem{Han:2012:DPW:2307636.2307675}
-H.~Han, Y.~Liu, G.~Shen, Y.~Zhang, and Q.~Li.
-\newblock Dozyap: power-efficient wi-fi tethering.
-\newblock In {\em Proceedings of the 10th international conference on Mobile
-  systems, applications, and services}, MobiSys '12, pages 421--434, New York,
-  NY, USA, 2012. ACM.
+\bibitem[Judd et~al., 2008]{judd2008efficient}
+Judd, G., Wang, X., and Steenkiste, P. (2008).
+\newblock Efficient channel-aware rate adaptation in dynamic environments.
+\newblock {\em ACM MOBISYS '08}.
 
-\bibitem{Hong:2012:PFR:2342356.2342362}
-S.~S. Hong, J.~Mehlman, and S.~Katti.
-\newblock Picasso: flexible rf and spectrum slicing.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 37--48, New York, NY, USA, 2012. ACM.
+\bibitem[Kashyap et~al., 2007]{kashyap2007capacity}
+Kashyap, A., Ganguly, S., and Das, S.~R. (2007).
+\newblock A measurement-based approach to modeling link capacity in
+  802.11-based wireless networks.
+\newblock {\em ACM MOBICOM '07}.
 
-\bibitem{Huang:2012:CEP:2307636.2307658}
-J.~Huang, F.~Qian, A.~Gerber, Z.~M. Mao, S.~Sen, and O.~Spatscheck.
-\newblock A close examination of performance and power characteristics of 4g
-  lte networks.
-\newblock In {\em Proceedings of the 10th international conference on Mobile
-  systems, applications, and services}, MobiSys '12, pages 225--238, New York,
-  NY, USA, 2012. ACM.
+\bibitem[Kim and Daneshrad, 2010]{5510775}
+Kim, H.~S. and Daneshrad, B. (2010).
+\newblock Energy-constrained link adaptation for mimo ofdm wireless
+  communication systems.
+\newblock {\em Wireless Communications, IEEE Transactions on}, 9(9):2820
+  --2832.
 
-\bibitem{Huang:2010:AAP:1814433.1814452}
-J.~Huang, Q.~Xu, B.~Tiwana, Z.~M. Mao, M.~Zhang, and P.~Bahl.
-\newblock Anatomizing application performance differences on smartphones.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 165--178, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Jain:2011:PRF:2030613.2030647}
-M.~Jain, J.~I. Choi, T.~Kim, D.~Bharadia, S.~Seth, K.~Srinivasan, P.~Levis,
-  S.~Katti, and P.~Sinha.
-\newblock Practical, real-time, full duplex wireless.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 301--312, New York, NY,
-  USA, 2011. ACM.
-
-\bibitem{Keralapura:2010:PUN:1859995.1860034}
-R.~Keralapura, A.~Nucci, Z.-L. Zhang, and L.~Gao.
-\newblock Profiling users in a 3g network using hourglass co-clustering.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 341--352, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Kim:2010:SAM:1859995.1860029}
-K.-H. Kim, A.~W. Min, and K.~G. Shin.
+\bibitem[Kim et~al., 2010]{kim2010sybot}
+Kim, K., Min, A.~W., and Shin, K.~G. (2010).
 \newblock Sybot: an adaptive and mobile spectrum survey system for wifi
   networks.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 293--304, New York,
-  NY, USA, 2010. ACM.
+\newblock {\em ACM MOBICOM '10}.
 
-\bibitem{Kjaergaard:2011:ETT:1999995.2000025}
-M.~B. Kj\ae~rgaard, S.~Bhattacharya, H.~Blunck, and P.~Nurmi.
-\newblock Energy-efficient trajectory tracking for mobile devices.
-\newblock In {\em Proceedings of the 9th international conference on Mobile
-  systems, applications, and services}, MobiSys '11, pages 307--320, New York,
-  NY, USA, 2011. ACM.
+\bibitem[Kim et~al., 2009]{kim2009experimental}
+Kim, W., Khan, O., Truong, K., Choi, S., Grant, R., Wright, H., Mandke, K.,
+  Daniels, R., Heath, R., and Nettles, S. (2009).
+\newblock An experimental evaluation of rate adaptation for multi-antenna
+  systems.
+\newblock {\em IEEE INFOCOM 2009}.
 
-\bibitem{Li:2012:ERA:2348543.2348585}
-C.-Y. Li, C.~Peng, S.~Lu, and X.~Wang.
+\bibitem[Kolar et~al., 2011]{kolar2011mesh}
+Kolar, V., Razak, S., M\"{a}h\"{o}nen, P., and Abu-Ghazaleh, N.~B. (2011).
+\newblock Link quality analysis and measurement in wireless mesh networks.
+\newblock {\em Ad Hoc Netw.}, 9(8):1430--1447.
+
+\bibitem[Lenders and Martonosi, 2009]{10.1109/TMC.2009.87}
+Lenders, V. and Martonosi, M. (2009).
+\newblock Repeatable and realistic experimentation in mobile wireless networks.
+\newblock {\em IEEE Transactions on Mobile Computing}, 8:1718--1728.
+
+\bibitem[Li et~al., 2012]{Li:2012:ERA:2348543.2348585}
+Li, C.-Y., Peng, C., Lu, S., and Wang, X. (2012).
 \newblock Energy-based rate adaptation for 802.11n.
 \newblock In {\em Proceedings of the 18th annual international conference on
   Mobile computing and networking}, Mobicom '12, pages 341--352, New York, NY,
-  USA, 2012. ACM.
+  USA. ACM.
 
-\bibitem{Lin:2010:ETC:1814433.1814462}
-K.~Lin, A.~Kansal, D.~Lymberopoulos, and F.~Zhao.
-\newblock Energy-accuracy trade-off for continuous mobile device location.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 285--298, New York,
-  NY, USA, 2010. ACM.
+\bibitem[NIST/SEMATECH, 2012]{EWMAChart}
+NIST/SEMATECH (2012).
+\newblock e-handbook of statistical methods.
+\newblock \url{http://www.itl.nist.gov/div898/handbook/}.
 
-\bibitem{Lin:2011:RAH:2018436.2018454}
-K.~C.-J. Lin, S.~Gollakota, and D.~Katabi.
-\newblock Random access heterogeneous mimo networks.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2011 conference}, SIGCOMM '11,
-  pages 146--157, New York, NY, USA, 2011. ACM.
+\bibitem[Pefkianakis et~al., 2010]{Pefkianakis:2010}
+Pefkianakis, I., Hu, Y., Wong, S., Yang, H., and Lu, S. (2010).
+\newblock {MIMO} rate adaptation in 802.11n wireless networks.
+\newblock {\em ACM MOBICOM '10}.
 
-\bibitem{Ma:2012:SPR:2342356.2342428}
-Y.~Ma and S.~Banerjee.
-\newblock A smart pre-classifier to reduce power consumption of tcams for
-  multi-dimensional packet classification.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 335--346, New York, NY, USA, 2012. ACM.
-
-\bibitem{Magistretti:2011:WRW:2030613.2030619}
-E.~Magistretti, K.~K. Chintalapudi, B.~Radunovic, and R.~Ramjee.
-\newblock Wifi-nano: reclaiming wifi efficiency through 800 ns slots.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 37--48, New York, NY,
-  USA, 2011. ACM.
-
-\bibitem{Magistretti:2010:IML:1859995.1860030}
-E.~Magistretti, O.~Gurewitz, and E.~Knightly.
-\newblock Inferring and mitigating a link's hindering transmissions in managed
-  802.11 wireless networks.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 305--316, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Manweiler:2011:ARH:1999995.2000020}
-J.~Manweiler and R.~Roy~Choudhury.
-\newblock Avoiding the rush hours: Wifi energy management via traffic
-  isolation.
-\newblock In {\em Proceedings of the 9th international conference on Mobile
-  systems, applications, and services}, MobiSys '11, pages 253--266, New York,
-  NY, USA, 2011. ACM.
-
-\bibitem{Mittal:2012:EDE:2348543.2348583}
-R.~Mittal, A.~Kansal, and R.~Chandra.
-\newblock Empowering developers to estimate app energy consumption.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 317--328, New York, NY,
-  USA, 2012. ACM.
-
-\bibitem{Nath:2012:AEC:2307636.2307640}
-S.~Nath.
-\newblock Ace: exploiting correlation for energy-efficient and continuous
-  context sensing.
-\newblock In {\em Proceedings of the 10th international conference on Mobile
-  systems, applications, and services}, MobiSys '12, pages 29--42, New York,
-  NY, USA, 2012. ACM.
-
-\bibitem{Nguyen:2011:OCD:2030613.2030624}
-N.~P. Nguyen, T.~N. Dinh, S.~Tokala, and M.~T. Thai.
-\newblock Overlapping communities in dynamic networks: their detection and
-  mobile applications.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 85--96, New York, NY,
-  USA, 2011. ACM.
-
-\bibitem{Paek:2010:ERG:1814433.1814463}
-J.~Paek, J.~Kim, and R.~Govindan.
-\newblock Energy-efficient rate-adaptive gps-based positioning for smartphones.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 299--314, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Paek:2011:EPS:1999995.2000024}
-J.~Paek, K.-H. Kim, J.~P. Singh, and R.~Govindan.
-\newblock Energy-efficient positioning for smartphones using cell-id sequence
-  matching.
-\newblock In {\em Proceedings of the 9th international conference on Mobile
-  systems, applications, and services}, MobiSys '11, pages 293--306, New York,
-  NY, USA, 2011. ACM.
-
-\bibitem{Pathak:2012:KMP:2307636.2307661}
-A.~Pathak, A.~Jindal, Y.~C. Hu, and S.~P. Midkiff.
-\newblock What is keeping my phone awake?: characterizing and detecting
-  no-sleep energy bugs in smartphone apps.
-\newblock In {\em Proceedings of the 10th international conference on Mobile
-  systems, applications, and services}, MobiSys '12, pages 267--280, New York,
-  NY, USA, 2012. ACM.
-
-\bibitem{Pefkianakis:2010:MRA:1859995.1860025}
-I.~Pefkianakis, Y.~Hu, S.~H. Wong, H.~Yang, and S.~Lu.
-\newblock Mimo rate adaptation in 802.11n wireless networks.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 257--268, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Peng:2011:TPS:2030613.2030628}
-C.~Peng, S.-B. Lee, S.~Lu, H.~Luo, and H.~Li.
+\bibitem[Peng et~al., 2011]{Peng:2011:TPS:2030613.2030628}
+Peng, C., Lee, S.-B., Lu, S., Luo, H., and Li, H. (2011).
 \newblock Traffic-driven power saving in operational 3g cellular networks.
 \newblock In {\em Proceedings of the 17th annual international conference on
   Mobile computing and networking}, MobiCom '11, pages 121--132, New York, NY,
-  USA, 2011. ACM.
+  USA. ACM.
 
-\bibitem{Popa:2012:FSN:2342356.2342396}
-L.~Popa, G.~Kumar, M.~Chowdhury, A.~Krishnamurthy, S.~Ratnasamy, and I.~Stoica.
-\newblock Faircloud: sharing the network in cloud computing.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 187--198, New York, NY, USA, 2012. ACM.
+\bibitem[Perahia and Stacey, 2008]{perahia2008next}
+Perahia, E. and Stacey, R. (2008).
+\newblock Next generation wireless lans: throughput, robustness and reliability
+  in 802.11n.
+\newblock {\em Recherche}, 67:02.
 
-\bibitem{Qian:2011:PRU:1999995.2000026}
-F.~Qian, Z.~Wang, A.~Gerber, Z.~Mao, S.~Sen, and O.~Spatscheck.
-\newblock Profiling resource usage for mobile applications: a cross-layer
-  approach.
-\newblock In {\em Proceedings of the 9th international conference on Mobile
-  systems, applications, and services}, MobiSys '11, pages 321--334, New York,
-  NY, USA, 2011. ACM.
-
-\bibitem{Ra:2010:ETS:1814433.1814459}
-M.-R. Ra, J.~Paek, A.~B. Sharma, R.~Govindan, M.~H. Krieger, and M.~J. Neely.
-\newblock Energy-delay tradeoffs in smartphone applications.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 255--270, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Rahul:2012:JSW:2342356.2342401}
-H.~S. Rahul, S.~Kumar, and D.~Katabi.
-\newblock Jmb: scaling wireless capacity with user demands.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 235--246, New York, NY, USA, 2012. ACM.
-
-\bibitem{Rayanchu:2011:FIT:2030613.2030615}
-S.~Rayanchu, V.~Shrivastava, S.~Banerjee, and R.~Chandra.
-\newblock Fluid: improving throughputs in enterprise wireless lans through
+\bibitem[Rayanchu et~al., 2011]{k.rayanchu:fluid:}
+Rayanchu, S.~K., Shrivastava, V., Banerjee, S., and Chandra, R. (2011).
+\newblock {FLUID}: improving throughputs in enterprise wireless lans through
   flexible channelization.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 1--12, New York, NY,
-  USA, 2011. ACM.
+\newblock {\em ACM MOBICOM'11}.
 
-\bibitem{Rozner:2010:NNP:1814433.1814445}
-E.~Rozner, V.~Navda, R.~Ramjee, and S.~Rayanchu.
-\newblock Napman: network-assisted power management for wifi devices.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 91--106, New York,
-  NY, USA, 2010. ACM.
+\bibitem[Reis et~al., 2006]{reis2006model}
+Reis, C., Mahajan, R., Rodrig, M., Wetherall, D., and Zahorjan, J. (2006).
+\newblock Measurement-based models of delivery and interference in static
+  wireless networks.
+\newblock {\em ACM SIGCOMM '06}.
 
-\bibitem{Sanadhya:2012:ACI:2348543.2348565}
-S.~Sanadhya, R.~Sivakumar, K.-H. Kim, P.~Congdon, S.~Lakshmanan, and J.~P.
-  Singh.
-\newblock Asymmetric caching: improved network deduplication for mobile
-  devices.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 161--172, New York, NY,
-  USA, 2012. ACM.
+\bibitem[Wong et~al., 2008]{wong2008wireless}
+Wong, M., Gilbert, J., and Barratt, C. (2008).
+\newblock Wireless {LAN} using {RSSI} and {BER} parameters for transmission
+  rate adaptation.
+\newblock US Patent 7,369,510.
 
-\bibitem{Schulman:2010:BPA:1859995.1860006}
-A.~Schulman, V.~Navda, R.~Ramjee, N.~Spring, P.~Deshpande, C.~Grunewald,
-  K.~Jain, and V.~N. Padmanabhan.
-\newblock Bartendr: a practical approach to energy-aware cellular data
-  scheduling.
-\newblock In {\em Proceedings of the sixteenth annual international conference
-  on Mobile computing and networking}, MobiCom '10, pages 85--96, New York, NY,
-  USA, 2010. ACM.
-
-\bibitem{Shen:2012:RAM:2348543.2348551}
-W.-L. Shen, Y.-C. Tung, K.-C. Lee, K.~C.-J. Lin, S.~Gollakota, D.~Katabi, and
-  M.-S. Chen.
-\newblock Rate adaptation for 802.11 multiuser mimo networks.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 29--40, New York, NY,
-  USA, 2012. ACM.
-
-\bibitem{Shepard:2012:APM:2348543.2348553}
-C.~Shepard, H.~Yu, N.~Anand, E.~Li, T.~Marzetta, R.~Yang, and L.~Zhong.
-\newblock Argos: practical many-antenna base stations.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 53--64, New York, NY,
-  USA, 2012. ACM.
-
-\bibitem{Vamanan:2010:EOP:1851182.1851208}
-B.~Vamanan, G.~Voskuilen, and T.~N. Vijaykumar.
-\newblock Efficuts: optimizing packet classification for memory and throughput.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2010 conference}, SIGCOMM '10,
-  pages 207--218, New York, NY, USA, 2010. ACM.
-
-\bibitem{Wang:2012:ERL:2342356.2342364}
-J.~Wang, H.~Hassanieh, D.~Katabi, and P.~Indyk.
-\newblock Efficient and reliable low-power backscatter networks.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2012 conference on
-  Applications, technologies, architectures, and protocols for computer
-  communication}, SIGCOMM '12, pages 61--72, New York, NY, USA, 2012. ACM.
-
-\bibitem{Wei:2012:PMP:2348543.2348563}
-X.~Wei, L.~Gomez, I.~Neamtiu, and M.~Faloutsos.
-\newblock Profiledroid: multi-layer profiling of android applications.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 137--148, New York, NY,
-  USA, 2012. ACM.
-
-\bibitem{Zhang:2011:EEI:2030613.2030637}
-X.~Zhang and K.~G. Shin.
-\newblock E-mili: energy-minimizing idle listening in wireless networks.
-\newblock In {\em Proceedings of the 17th annual international conference on
-  Mobile computing and networking}, MobiCom '11, pages 205--216, New York, NY,
-  USA, 2011. ACM.
-
-\bibitem{Zhuang:2010:IEE:1814433.1814464}
-Z.~Zhuang, K.-H. Kim, and J.~P. Singh.
-\newblock Improving energy efficiency of location sensing on smartphones.
-\newblock In {\em Proceedings of the 8th international conference on Mobile
-  systems, applications, and services}, MobiSys '10, pages 315--330, New York,
-  NY, USA, 2010. ACM.
-
-\bibitem{Zohar:2011:PPC:2018436.2018447}
-E.~Zohar, I.~Cidon, and O.~O. Mokryn.
-\newblock The power of prediction: cloud bandwidth and cost reduction.
-\newblock In {\em Proceedings of the ACM SIGCOMM 2011 conference}, SIGCOMM '11,
-  pages 86--97, New York, NY, USA, 2011. ACM.
+\bibitem[Zhang et~al., 2008]{zhang2008practical}
+Zhang, J., Tan, K., Zhao, J., Wu, H., and Zhang, Y. (2008).
+\newblock A practical {SNR}-guided rate adaptation.
+\newblock {\em IEEE INFOCOM 2008}.
 
 \end{thebibliography}
