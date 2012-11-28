@@ -29,7 +29,7 @@ Crepaldi, R., Lee, J., Etkin, R., Lee, S., and Kravets, R. (2012).
 
 \bibitem[Eraslan and Daneshrad, 2012]{6214414}
 Eraslan, E. and Daneshrad, B. (2012).
-\newblock Practical energy efficient link adaptation for mimo-ofdm systems.
+\newblock Practical energy efficient link adaptation for {MIMO-OFDM} systems.
 \newblock In {\em IEEE WCNC 2012}, pages 480 --485.
 
 \bibitem[Fietkau, 2005]{minstrel}
@@ -107,9 +107,7 @@ Li, C.-Y., Peng, C., Lu, S., and Wang, X. (2012).
 \bibitem[Mittal et~al., 2012]{Mittal:2012:EDE:2348543.2348583}
 Mittal, R., Kansal, A., and Chandra, R. (2012).
 \newblock Empowering developers to estimate app energy consumption.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 317--328, New York, NY,
-  USA. ACM.
+\newblock In {\em Mobicom '12}, pages 317--328, New York, NY, USA. ACM.
 
 \bibitem[NIST/SEMATECH, 2012]{EWMAChart}
 NIST/SEMATECH (2012).
@@ -148,9 +146,7 @@ Schulman, A., Navda, V., Ramjee, R., Spring, N., Deshpande, P., Grunewald, C.,
 \bibitem[Wei et~al., 2012]{Wei:2012:PMP:2348543.2348563}
 Wei, X., Gomez, L., Neamtiu, I., and Faloutsos, M. (2012).
 \newblock Profiledroid: multi-layer profiling of android applications.
-\newblock In {\em Proceedings of the 18th annual international conference on
-  Mobile computing and networking}, Mobicom '12, pages 137--148, New York, NY,
-  USA. ACM.
+\newblock In {\em Mobicom '12}, pages 137--148, New York, NY, USA. ACM.
 
 \bibitem[Wong et~al., 2008]{wong2008wireless}
 Wong, M., Gilbert, J., and Barratt, C. (2008).
