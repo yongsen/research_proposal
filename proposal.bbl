@@ -104,6 +104,13 @@ Li, C.-Y., Peng, C., Lu, S., and Wang, X. (2012).
 \newblock Energy-based rate adaptation for 802.11n.
 \newblock Mobicom '12, pages 341--352, New York, NY, USA. ACM.
 
+\bibitem[Mittal et~al., 2012]{Mittal:2012:EDE:2348543.2348583}
+Mittal, R., Kansal, A., and Chandra, R. (2012).
+\newblock Empowering developers to estimate app energy consumption.
+\newblock In {\em Proceedings of the 18th annual international conference on
+  Mobile computing and networking}, Mobicom '12, pages 317--328, New York, NY,
+  USA. ACM.
+
 \bibitem[NIST/SEMATECH, 2012]{EWMAChart}
 NIST/SEMATECH (2012).
 \newblock e-handbook of statistical methods.
@@ -137,6 +144,13 @@ Schulman, A., Navda, V., Ramjee, R., Spring, N., Deshpande, P., Grunewald, C.,
 \newblock Bartendr: a practical approach to energy-aware cellular data
   scheduling.
 \newblock MobiCom '10, pages 85--96, New York, NY, USA. ACM.
+
+\bibitem[Wei et~al., 2012]{Wei:2012:PMP:2348543.2348563}
+Wei, X., Gomez, L., Neamtiu, I., and Faloutsos, M. (2012).
+\newblock Profiledroid: multi-layer profiling of android applications.
+\newblock In {\em Proceedings of the 18th annual international conference on
+  Mobile computing and networking}, Mobicom '12, pages 137--148, New York, NY,
+  USA. ACM.
 
 \bibitem[Wong et~al., 2008]{wong2008wireless}
 Wong, M., Gilbert, J., and Barratt, C. (2008).
