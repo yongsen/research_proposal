@@ -31,7 +31,7 @@
 \IEEEauthorblockA{Shanghai Jiao Tong University \\
 E-mail: mayongsen@gmail.com}
 }
-\markboth{R\MakeLowercase{esearch} P\MakeLowercase{roposal for} P\MakeLowercase{h}D A\MakeLowercase{pplication of} CS, HKU}{Yongsen MA}
+\markboth{R\MakeLowercase{esearch} P\MakeLowercase{roposal for} P\MakeLowercase{h}D A\MakeLowercase{pplication of} ECE, HKUST}{Yongsen MA}
 % make the title area
 \maketitle
 
@@ -92,7 +92,7 @@ The 802.11n standard incorporates PHY/MAC enhancements to achieve higher through
 \label{offlinemodel}
 \end{figure}
 
-The general framework for current channel measurement and prediction methods based on PDR-RSS model is shown in Fig.~\ref{offlinemodel}. The main features in the static framework are as follows: 
+The general framework for current channel measurement and prediction methods based on PDR-RSS model is shown in Fig.~\ref{offlinemodel}. The main features in the static framework are as follows:
 \begin{enumerate}
   \item static Exponentially Weighted Moving Average (EWMA) for PDR measurement;
   \item static data set and PDR-RSS model;
@@ -227,10 +227,10 @@ The Dynamic Sliding Window Average (DSWA) approach can be employed to resolve th
 
 PDR is the link layer metric that influenced by physical layer channel state quality, along with antenna numbers, streams, coding and modulation. Moreover, the packet transmission feature is also impacted by traffic loads and users requirements. So on-line PDR-RSS modeling should include these considerations to make effective link adaption according to propagation environments and traffic patterns.
 
-\subsubsection{Channel State}
-First, the relationship between PDR and RSS under different MIMO-OFDM configurations should be explored. The on-line PDR-RSS modeling is to update the PDR-RSS database, and generate the HT/GI/MCS sequence according to current network conditions. Obviously, the reliability can be identified by the distance between transition windows' upper bound and current RSS. Then the database is sorted in order by this distance, and HT/GI/MCS selection sequence is generated accordingly.
+\subsubsection{PHY-layer Channel State}
+First, the relationship between PDR and RSS under different MIMO-OFDM configurations should be explored. The on-line PDR-RSS modeling is to update the PDR-RSS database, and generate the HT/GI/MCS sequence according to current network conditions. Obviously, the reliability can be identified by the distance between transition windows' upper bound and current RSS, by wiich the database is sorted in order. Then HT/GI/MCS selection sequence is generated accordingly.
 
-\subsubsection{Traffic Patterns}
+\subsubsection{APP-layer Traffic Patterns}
 Second, it has been stated and verified by experiments that traffic patterns have significant influence on packet inter-arrival interval \cite{Han:2012:DPW:2307636.2307675}, network events \cite{Wei:2012:PMP:2348543.2348563} and energy consumption \cite{Mittal:2012:EDE:2348543.2348583}. Thus, the PDR-RSS model can be classified into different categories according to the upper layer traffic patterns. This can be helpful for rate adaption algorithms to make better adjustment to traffic loads and user requirements.
 
 \section{Outcomes and Values}
@@ -240,7 +240,7 @@ Second, it has been stated and verified by experiments that traffic patterns hav
 For the PDR measurement in realistic networks, EWMA can hardly get sufficient measurement accuracy compared to DSWA. In mobile wireless networks, the propagation environments are complex and communication terminals are on the move particularly, which means both RSS and interference are changing during PDR measurement. This will make PDR changes in short time scale so that EWMA with fixed settings tends to overestimate the actual PDR. Compared with the traditional EWMA method, DSWA will improve the overall measurement accuracy in mobile scenarios.
 
 \subsubsection{Overhead}
-In addition to meet the accuracy requirements, it also deserves attention to reduce measurement overhead, since more sample packets will lower the throughput achieved. The averaging intervals of DSWA are associated with PDR changes to allow a more timely response to sustained decreasing in link quality, and make less frequent samples as network conditions are in steady continuously. When PDR increases and getting stable, DSWA will reduce measurement overhead significantly. The average window length of EWMA are approximately constant for certain rate that $W=20$ for 6.5Mbps and $W=500$ for 300Mbps.
+In addition to meet the accuracy requirements, it also deserves attention to reduce measurement overhead, since more sample packets will lower the throughput achieved. The averaging intervals of DSWA are associated with PDR changes to allow a more timely response to sustained decreasing in link quality, and make less frequent samples as network conditions are in steady continuously. The averaging window lengths of EWMA are approximately constant for certain rate that $W=20$ for 6.5Mbps and $W=500$ for 300Mbps. When PDR increases and getting stable, DSWA will reduce measurement overhead significantly.
 
 \subsection{Performance}
 
