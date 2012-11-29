@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.19)  29 NOV 2012 09:23
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.19)  29 NOV 2012 10:31
 entering extended mode
 **proposal.tex
 (D:\Cloud\Github\research_proposal\proposal.tex
@@ -591,7 +591,7 @@ Here is how much of TeX's memory you used:
  11148 multiletter control sequences out of 15000+200000
  42376 words of font info for 90 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
- 36i,10n,47p,1237b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,47p,1238b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/Progr
 am Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
 m Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
@@ -600,7 +600,7 @@ les (x86)/CTEX/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86
 )/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/CTEX/MiK
 TeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/CTEX/MiKTeX/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (11 pages, 840375 bytes).
+Output written on proposal.pdf (11 pages, 840358 bytes).
 PDF statistics:
  432 PDF objects out of 1000 (max. 8388607)
  86 named destinations out of 1000 (max. 500000)
